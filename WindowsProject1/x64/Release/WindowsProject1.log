@@ -1,0 +1,9 @@
+﻿  WindowsProject1.cpp
+c:\users\mrgra\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\mrgra\source\repos\windowsproject1\windowsproject1\windowsproject1.cpp(91): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Generating code
+  1 of 177 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WindowsProject1.vcxproj -> C:\Users\MrGra\source\repos\WindowsProject1\x64\Release\WindowsProject1.exe
